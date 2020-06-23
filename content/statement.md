@@ -25,3 +25,9 @@ By the time you've scaled to realize this costly problem, however, onboarding a 
 This results in months going by without meaningful structural improvements, all-the-while you're losing next-level prospects and having to eat the cost of heavy-handed implementations that could have otherwise been self-serviced.
 
 The price of neglecting a knowledge strategy is far higher than hiring an expert early on. **Knowledge is one of your products**. The sooner you realize that, the more competitive your product suite will become.
+
+# How EMDASH Can Help
+
+ Our solutions accelerate the maturity of your startup's documentation and release processes by installing best practices we've learned over the years while working with startups in FinTech, DevOps, CloudTech, E-Commerce, EduTech, and LegalTech.  
+
+We take great pride in staying up-to-date on tooling trends for publishing and consuming information. Our goal is ensure you'll never have to migrate to another knowledge base---because it works for _all_ audiences and content creators. 
