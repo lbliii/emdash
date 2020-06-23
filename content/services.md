@@ -8,7 +8,7 @@ date: 2020-06-20
 
 ## Blog Content
 
-Gain SEO ranking with long and short-tail keywords to drive inbound marketing leads. Inbound marketing saves your startup thousands of dollars in ad spend and helps your sale's team worry more about closing deals and less about finding them. [More Details][1]
+Gain SEO ranking with long and short-tail keywords to drive inbound marketing leads. Inbound marketing saves your startup thousands of dollars in ad spend and helps your sales team worry more about closing deals and less about finding them. [More Details][1]
 
 ## Knowledge Architecture
 
