@@ -20,8 +20,8 @@ Startups need to keep costs lean while simultaneously delivering an accessible a
 
 Startups forego hiring knowledge experts to save a few bucks---at least, until they lose their first whale prospect over the inability to integrate with the product's API. Or worse, they experience a spike in churn directly related to poor product adoption and a total lack of enablement resources.
 
-By the time you've scaled to realize this costly problem, however, onboarding a technical writer and empowering them to build the departmental in-roads required to resolve the core issue is nothing short of a heroic feat. Poor habits have already crystalized, and getting proper buy-in for knowledge initiatives often fails due to improperly defined ownership realms. (_Who owns the documentation enough to approve needed changes: Product, Support, Engineering? All three?_)  Not to mention, the tasks of handling the backlog of content needs is more than enough to keep them busy.
+By the time you've scaled to realize this costly problem, however, onboarding a technical writer and empowering them to build the departmental in-roads required to resolve the core issue is nothing short of a heroic feat. Poor habits have already crystalized, and getting proper buy-in for knowledge initiatives often fails due to improperly defined ownership realms. (_Who owns the documentation enough to approve needed changes: Product, Support, Engineering? All three?_)  
 
-Months can go by without meaningful improvements, all-the-while you're losing next-level prospects and having to eat the cost of heavy-handed implementations that could have otherwise been self-serviced.
+This results in months going by without meaningful structural improvements, all-the-while you're losing next-level prospects and having to eat the cost of heavy-handed implementations that could have otherwise been self-serviced.
 
 The price of neglecting a knowledge strategy is far higher than hiring an expert early on. **Knowledge is one of your products**. The sooner you realize that, the more competitive your product suite will become.
