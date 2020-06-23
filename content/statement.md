@@ -24,4 +24,4 @@ By the time you've scaled to realize this costly problem, however, onboarding a 
 
 Months can go by without meaningful improvements, all-the-while you're losing next-level prospects and having to eat the cost of heavy-handed implementations that could have otherwise been self-serviced.
 
-The cost of neglecting a knowledge strategy is far higher than hiring an expert early on. **Knowledge is one of your products**. The sooner you realize that, the more competitive your product suite will become.
+The price of neglecting a knowledge strategy is far higher than hiring an expert early on. **Knowledge is one of your products**. The sooner you realize that, the more competitive your product suite will become.
