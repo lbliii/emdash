@@ -38,8 +38,14 @@ theme = "codex"
   title = "Blog"
   url = "/blog"
 
+  [[menu.main]]
+    identifier = "Problem"
+    name = "problem"
+    title = "Problem"
+    url = "/statement"
+
 [[menu.main]]
-  identifier = "Services"
-  name = "services"
-  title = "services"
+  identifier = "Solutions"
+  name = "solutions"
+  title = "solutions"
   url = "/services"
