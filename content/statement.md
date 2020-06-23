@@ -5,7 +5,7 @@ date: 2020-06-20
 ---
 # Problem Statement
 
-Startups need to keep costs lean while simultaneously delivering an accessible a product, ready for scale. However, **accessibility is often neglected** --- relegated as secondary tasks put on already overworked product and engineering teams.
+Startups need to keep costs lean while simultaneously delivering an accessible a product, ready for scale. However, **accessibility is often neglected** --- relegated as a set of secondary tasks put on already overworked product and engineering teams.
 
 ## This Manifests As:
 
@@ -22,4 +22,4 @@ Startups forego hiring knowledge experts to save a few bucks---at least, until t
 
 By the time you've scaled to realize this costly problem, however, onboarding a technical writer and empowering them to build the departmental in-roads required to resolve the core issue is nothing short of a heroic feat. Poor habits have already crystalized, and getting proper buy-in for knowledge initiatives often fails due to improperly defined ownership realms. (_Who owns the documentation enough to approve needed changes: Product, Support, Engineering? All three?_)  Not to mention, the tasks of handling the backlog of content needs is more than enough to keep them busy.
 
-The cost of neglecting a knowledge strategy is far higher than hiring an expert early on. **Knowledge is one of your products**. The sooner you realize that, the more competitive your product suite will become. 
+The cost of neglecting a knowledge strategy is far higher than hiring an expert early on. **Knowledge is one of your products**. The sooner you realize that, the more competitive your product suite will become.
