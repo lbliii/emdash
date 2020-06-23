@@ -28,6 +28,6 @@ The price of neglecting a knowledge strategy is far higher than hiring an expert
 
 # How EMDASH Can Help
 
- Our solutions accelerate the maturity of your startup's documentation and release processes by installing best practices we've learned over the years while working with startups in FinTech, DevOps, CloudTech, E-Commerce, EduTech, and LegalTech.  
+ Our solutions accelerate the maturity of your startup's documentation and release processes by installing best practices we've learned over the years. Think your problems are unique? Don't worry, we've worked with startups in FinTech, DevOps, CloudTech, E-Commerce, EduTech, and LegalTech. Your use cases are covered.
 
-We take great pride in staying up-to-date on tooling trends for publishing and consuming information. Our goal is ensure you'll never have to migrate to another knowledge base---because it works for _all_ audiences and content creators. 
+We also take great pride in staying up-to-date on tooling trends for publishing and consuming information. Our goal is ensure you'll never have to migrate to another knowledge base---because it works for _all_ audiences and content creators.
