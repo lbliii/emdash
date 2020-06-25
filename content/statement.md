@@ -5,7 +5,7 @@ date: 2020-06-20
 ---
 # Problem Statement
 
-Startups need to keep costs lean while simultaneously delivering an accessible a product, ready for scale. However, **accessibility is often neglected** --- relegated as a set of secondary tasks put on already overworked product and engineering teams.
+Startups need to keep costs lean while simultaneously delivering an accessible product, ready for scale. However, **accessibility is often neglected** --- relegated as a set of secondary tasks put on already overworked product and engineering teams.
 
 ## This Manifests As:
 
