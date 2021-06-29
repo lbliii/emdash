@@ -1,0 +1,4 @@
+
+  {{ range (.GetTerms "tags") }}
+        <a href="{{ .Permalink }}"><span class="badge rounded-pill bg-light text-dark">{{ .LinkTitle }}</span></a>
+   {{ end }}
