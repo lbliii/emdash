@@ -25,6 +25,9 @@ body {
     color: var(--is-header-color);
 }
 
+.is-vampire {
+    box-shadow: none;
+}
 
 .hero-svg {
    position: absolute;
