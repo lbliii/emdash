@@ -1,4 +1,4 @@
-baseURL = "https://www.emdash.tech/"
+baseURL = "/"
 copyright = "© EMDASH 2020"
 theme = "emdash"
 
