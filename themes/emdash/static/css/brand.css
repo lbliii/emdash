@@ -2,6 +2,7 @@
     --is-primary-font: 'DM Mono', monospace;
     --is-secondary-font: 'Open Sans', sans-serif; 
     --is-header-color: #39291A;
+    --header-size: 3rem;
     --is-accent-color: #CA935F;
 }
 
@@ -23,6 +24,10 @@ body {
 
 .title {
     color: var(--is-header-color);
+}
+
+.subtitle {
+    font-size: 2rem
 }
 
 .is-vampire {
@@ -83,4 +88,8 @@ body {
     letter-spacing: 2px;
     font-weight:800;
     box-shadow: -10px -10px 20px #FAFBFF, 10px 10px 20px rgba(202, 147, 95, 0.8);
+}
+
+.is-accent {
+    background-color: var(--is-accent-color);
 }

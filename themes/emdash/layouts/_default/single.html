@@ -1,28 +1,24 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <!--Top Menu-->
-    {{ partial "head.html" . }}
-  <title>{{ .Title }}</title>
-</head>
-
-
-<body>
-      {{ partial "breadcrumbs.html" . }}
-  <h1>{{ .Title }}</h1>
-
-  {{ .Content }}
-
-  <!--Tag Generation-->
-  {{ partial "tags.html" . }}
-
-  <!--Next or Previous Page -->
-  {{ partial "next-previous-topic.html" . }}
-
-  {{ partial "footer.html" . }}
-
-</body>
-</div>
-</div>
-
-</html>
+  <head>
+    {{- partial "head-pages.html" . -}}
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        {{- partial "header.html" . -}}
+        <div class="columns">
+          <div class="column"></div>
+          <div class="column is-four-fifths">
+            <article> 
+              {{.Content}}
+            </article>
+          </div>
+          <div class="column"></div>
+        </div>
+      </div>
+      </div>
+    </section>
+    </body>
+    {{ partial "footer" . }}
+  </html>

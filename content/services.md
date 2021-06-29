@@ -1,6 +1,4 @@
 ---
-heading: "Services"
-subheading: "meow"
 date: 2020-06-20
 ---
 # EMDASH Services

@@ -1,0 +1,47 @@
+aside {
+    margin-top: 125px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    margin-top: 20px;
+    text-transform: lowercase
+}
+
+h1 {
+    font-size: var(--header-size);
+    text-align: center;
+}
+
+h2 {
+    font-size: calc(var(--header-size) - 0.3rem);
+
+}
+
+h3 {
+    font-size: calc(var(--header-size) - 0.6rem);
+
+}
+
+h4 {
+    font-size: calc(var(--header-size) - 0.9rem);
+
+}
+
+h5 {
+    font-size: calc(var(--header-size) - 1.2rem);
+}
+
+h6 {
+    font-size: calc(var(--header-size) - 1.4rem);
+}
+
+p {
+    margin-bottom: 10px;
+    
+  }
+
+  body {
+    font-size: 1.25rem;
+    
+  }
