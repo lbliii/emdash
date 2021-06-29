@@ -4,22 +4,27 @@
     --is-header-color: #39291A;
     --header-size: 3rem;
     --is-accent-color: #CA935F;
+    --is-background-color: #ECE4DB;
 }
 
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--is-primary-font); 
-    color: var(--is-header-color);
-}
 
 body {
     font-family: 'Open Sans';
     background-color: #ECE4DB; 
     overflow: hidden;
+    color: var(--is-header-color);
 }
 
+/* Makes Element BG Transparent*/
 .is-clear {
     background-color: transparent;
+}
+
+/* Title Overrides */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--is-primary-font); 
+    color: var(--is-header-color);
 }
 
 .title {
@@ -30,10 +35,7 @@ body {
     font-size: 2rem
 }
 
-.is-vampire {
-    box-shadow: none;
-}
-
+/* SVGs */
 .hero-svg {
    position: absolute;
    
@@ -48,7 +50,7 @@ body {
  }
 
 
-
+/* Layout Depth */
 .back {
     z-index: 0;
 }
@@ -61,7 +63,7 @@ body {
     z-index: 3;
 }
 
-
+/* Buttons */
 .button { 
     background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #ECE4DB;
     background-blend-mode: soft-light, normal;
@@ -69,18 +71,27 @@ body {
     border: none;
 }
 
+ 
+
 .button:hover {
     box-shadow: -10px -10px 20px #FAFBFF, 10px 10px 20px rgba(202, 147, 95, 0.8);
 
 }
 
+/* Misc. Helpers*/
+
+.is-vampire {
+    box-shadow: none;
+}
+
+
 .is-in {
     box-shadow: inset -2.5px -2.5px 5px #FAFBFF, inset 2.5px 2.5px 5px rgba(202, 147, 95, 0.8);
+
 }
 
 .is-out { 
     box-shadow: -10px -10px 20px #FAFBFF, 10px 10px 20px rgba(202, 147, 95, 0.8);
-
 }
 
 .brand {
@@ -92,4 +103,10 @@ body {
 
 .is-accent {
     background-color: var(--is-accent-color);
+    color: white;
 }
+
+.is-accent:hover {
+    color: white;
+}
+
